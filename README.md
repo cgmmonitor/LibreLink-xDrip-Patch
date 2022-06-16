@@ -1,4 +1,4 @@
-# Anleitung zum Patchen der App "LibreLink" unter Windows mit optionaler Verbindung zu LibreView#
+# Исправление для приложения «LibreLink» для Windows с опциональным расширением для LibreView#
 
 **Grundsätzliches:**
 
