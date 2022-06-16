@@ -58,7 +58,7 @@ Das Grundsystem ist nun vorhanden und muss mit benötigten Werkzeugen (Tools) ve
 
 * Clone dieses Repositories
 
-Mittels `git clone https://github.com/smos-gh/LibreLink-xDrip-Patch` wird dieses Repository heruntergeladen und anschließend per `cd LibreLink-xDrip-Patch` in das neue Verzeichnis gewechselt (Tipp: `cd Li` eintippen und Tabulator-Taste drücken). Bei Bedarf kann nun mit `ls -l` der Inhalt geprüft werden.
+Mittels `git clone https://github.com/cgmmonitor/LibreLink-xDrip-Patch` wird dieses Repository heruntergeladen und anschließend per `cd LibreLink-xDrip-Patch` in das neue Verzeichnis gewechselt (Tipp: `cd Li` eintippen und Tabulator-Taste drücken). Bei Bedarf kann nun mit `ls -l` der Inhalt geprüft werden.
 
 * Installation weiterer Tools
 
